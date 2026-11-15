@@ -1,1 +1,1 @@
-moubelkacem assets used on my products
+moubelkacem assets used for my products
