@@ -1,5 +1,5 @@
 moubelkacem assets used for my products:
 
-----------Smart AI Reader----------\n
-builds/Smart AI Reader Showcase_1.0.0_x64-setup.zip
+----------Smart AI Reader----------
+<p>builds/Smart AI Reader Showcase_1.0.0_x64-setup.zip</p>
 -----------------------------------
